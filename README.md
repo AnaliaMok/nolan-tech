@@ -1,6 +1,6 @@
-# frontend
+# Nolan Tech Front End
 
-> Front end to contenta managed app
+Front-end application powered by headless Drupal
 
 ## Build Setup
 
